@@ -12,6 +12,10 @@
     "api",
     "opendata"
   ],
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/ChattanoogaPublicLibrary/node-soda.git"
+  },
   "author": "Sean Brewer",
   "license": "MIT",
   "dependencies": {
