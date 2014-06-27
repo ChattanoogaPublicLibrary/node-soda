@@ -1,0 +1,21 @@
+{
+  "name": "node-soda",
+  "version": "0.0.0",
+  "description": "API Wrapper for Socrata's SODA.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socrata",
+    "soda",
+    "data",
+    "api",
+    "opendata"
+  ],
+  "author": "Sean Brewer",
+  "license": "MIT",
+  "dependencies": {
+    "q": "~1.0.1",
+    "request": "~2.36.0"
+  }
+}
